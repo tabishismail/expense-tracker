@@ -1,0 +1,26 @@
+.loginPage{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+}
+.inputs{
+    width: 80%;
+    margin: 0 auto;
+}
+.mt-10{
+    margin-top: 10px;
+    text-align: center;
+}
+.myHeading{
+width: 80%;
+text-align: center;
+display: flex;
+margin: 0 auto;    
+}
+.myIcon{
+    width: 2em !important;
+    height: 80px !important;
+    margin-left:5px ;
+}
